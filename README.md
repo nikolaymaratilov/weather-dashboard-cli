@@ -95,4 +95,4 @@ Search history (3 entries)
 ```
 
 ## Repository
-- GitHub: _<add link here>_
+- GitHub: https://github.com/nikolaymaratilov/weather-dashboard-cli
