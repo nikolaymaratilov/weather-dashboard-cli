@@ -1,0 +1,38 @@
+{
+  "cod": "200",
+  "message": 0,
+  "cnt": 5,
+  "list": [
+    {
+      "dt": 1718618400,
+      "main": { "temp": 13.0, "temp_min": 12.0, "temp_max": 15.0, "humidity": 78 },
+      "weather": [ { "id": 500, "main": "Rain", "description": "light rain", "icon": "10d" } ],
+      "dt_txt": "2026-06-17 09:00:00"
+    },
+    {
+      "dt": 1718629200,
+      "main": { "temp": 16.0, "temp_min": 14.0, "temp_max": 18.0, "humidity": 70 },
+      "weather": [ { "id": 500, "main": "Rain", "description": "light rain", "icon": "10d" } ],
+      "dt_txt": "2026-06-17 12:00:00"
+    },
+    {
+      "dt": 1718640000,
+      "main": { "temp": 15.0, "temp_min": 13.0, "temp_max": 17.0, "humidity": 72 },
+      "weather": [ { "id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04d" } ],
+      "dt_txt": "2026-06-17 15:00:00"
+    },
+    {
+      "dt": 1718704800,
+      "main": { "temp": 18.0, "temp_min": 16.0, "temp_max": 20.0, "humidity": 60 },
+      "weather": [ { "id": 800, "main": "Clear", "description": "clear sky", "icon": "01d" } ],
+      "dt_txt": "2026-06-18 09:00:00"
+    },
+    {
+      "dt": 1718715600,
+      "main": { "temp": 22.0, "temp_min": 18.0, "temp_max": 24.0, "humidity": 55 },
+      "weather": [ { "id": 800, "main": "Clear", "description": "clear sky", "icon": "01d" } ],
+      "dt_txt": "2026-06-18 12:00:00"
+    }
+  ],
+  "city": { "id": 2643743, "name": "London", "country": "GB", "timezone": 3600 }
+}

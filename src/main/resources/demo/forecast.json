@@ -1,0 +1,56 @@
+{
+  "cod": "200",
+  "list": [
+    {
+      "main": { "temp": 13.0, "temp_min": 12.0, "temp_max": 15.0, "humidity": 78 },
+      "weather": [ { "description": "light rain" } ],
+      "dt_txt": "2026-06-17 09:00:00"
+    },
+    {
+      "main": { "temp": 16.0, "temp_min": 14.0, "temp_max": 18.0, "humidity": 70 },
+      "weather": [ { "description": "light rain" } ],
+      "dt_txt": "2026-06-17 12:00:00"
+    },
+    {
+      "main": { "temp": 18.0, "temp_min": 15.0, "temp_max": 20.0, "humidity": 60 },
+      "weather": [ { "description": "clear sky" } ],
+      "dt_txt": "2026-06-18 09:00:00"
+    },
+    {
+      "main": { "temp": 22.0, "temp_min": 17.0, "temp_max": 23.0, "humidity": 55 },
+      "weather": [ { "description": "clear sky" } ],
+      "dt_txt": "2026-06-18 12:00:00"
+    },
+    {
+      "main": { "temp": 19.0, "temp_min": 16.0, "temp_max": 21.0, "humidity": 58 },
+      "weather": [ { "description": "few clouds" } ],
+      "dt_txt": "2026-06-19 09:00:00"
+    },
+    {
+      "main": { "temp": 24.0, "temp_min": 18.0, "temp_max": 25.0, "humidity": 50 },
+      "weather": [ { "description": "few clouds" } ],
+      "dt_txt": "2026-06-19 12:00:00"
+    },
+    {
+      "main": { "temp": 17.0, "temp_min": 14.0, "temp_max": 19.0, "humidity": 65 },
+      "weather": [ { "description": "scattered clouds" } ],
+      "dt_txt": "2026-06-20 09:00:00"
+    },
+    {
+      "main": { "temp": 20.0, "temp_min": 15.0, "temp_max": 22.0, "humidity": 62 },
+      "weather": [ { "description": "scattered clouds" } ],
+      "dt_txt": "2026-06-20 12:00:00"
+    },
+    {
+      "main": { "temp": 15.0, "temp_min": 13.0, "temp_max": 17.0, "humidity": 72 },
+      "weather": [ { "description": "light rain" } ],
+      "dt_txt": "2026-06-21 09:00:00"
+    },
+    {
+      "main": { "temp": 16.0, "temp_min": 14.0, "temp_max": 19.0, "humidity": 70 },
+      "weather": [ { "description": "moderate rain" } ],
+      "dt_txt": "2026-06-21 12:00:00"
+    }
+  ],
+  "city": { "name": "London", "country": "GB" }
+}

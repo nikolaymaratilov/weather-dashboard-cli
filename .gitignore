@@ -1,0 +1,25 @@
+# Maven build output
+target/
+
+# Compiled class files
+*.class
+
+# Secrets — never commit your API key
+.env
+apikey.txt
+*.local
+
+# Runtime data written by the app
+history.json
+
+# IDE / editor
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS noise
+Thumbs.db
+.DS_Store
