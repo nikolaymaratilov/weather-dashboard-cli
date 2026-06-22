@@ -36,7 +36,7 @@ app can be run and graded without any setup.
 Prerequisites: a **JDK 17 or newer** and **Maven 3.9+** on your `PATH` (`java -version`, `mvn -version`).
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/nikolaymaratilov/weather-dashboard-cli
 cd weather-dashboard-cli
 
 # 1. Run the test suite (38 tests, fully offline)
